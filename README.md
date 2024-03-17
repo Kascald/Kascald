@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- githubstats (ref)-> https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md -->
-[![KGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kascald&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- Top Lang (ref)-> [https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#%EC%96%B8%EC%96%B4-%EC%82%AC%EC%9A%A9%EB%9F%89-%ED%86%B5%EA%B3%84) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kascald&langs_count=10&layout=compact&theme=dracula)](https://github.com/Kascald/Kascald)﻿
+[![KGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kascald&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kascald&langs_count=10&layout=compact&theme=dracula)](https://github.com/Kascald/Kascald)
+
+﻿
 
 <!-- WaKa Time (ref)-> [https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#wakatime-%EC%A3%BC%EA%B0%84-%ED%86%B5%EA%B3%84) -->
 [![KGH's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kascald&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
