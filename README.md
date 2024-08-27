@@ -5,7 +5,7 @@
 
 <!-- github workflow -->
 <!-- ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg) -->
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/ko-kr)
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://alpine-helium-e62.notion.site/53d1f1bdd4ea4e74afb37a7997e93e40?v=da538e62a1134d6b9a94c9938d27f8c1)
 [![NaverMail Badge](https://img.shields.io/badge/MAIL-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF)](mailto:kghui200@naver.com)
 <!-- [![Blog](https://img.shields.io/badge/Blog-_?style=for-the-badge&logo=buefy&labelColor=%23E6E6FA&color=%23E6E6FA)](#) -->
 
