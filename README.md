@@ -1,68 +1,43 @@
-# Hi, I'm KGH! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=D2Coding&weight=600&size=22&duration=6000&pause=1200&color=CCCCCC&background=121212&center=true&vCenter=true&random=true&width=600&lines=I'm+studying+to+become+a+Back-End+Developer)](https://git.io/typing-svg)
-<!-- link badge below... -->
+<h1 align="center">Hi, I'm KGH 👋</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1200&color=8B949E&center=true&vCenter=true&width=600&lines=Back-End+Developer+in+Growth;Java+%26+Spring+Boot;Domain-Driven+%C2%B7+Hexagonal" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- github workflow -->
-<!-- ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg) -->
-[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://alpine-helium-e62.notion.site/53d1f1bdd4ea4e74afb37a7997e93e40?v=da538e62a1134d6b9a94c9938d27f8c1) 
-[![NaverMail Badge](https://img.shields.io/badge/MAIL-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF)](mailto:kghui200@naver.com) 
+<p align="center">
+  백엔드 개발자를 목표로 공부하고 있는 KGH입니다.
+</p>
+
+<p align="center">
+  <a href="https://alpine-helium-e62.notion.site/53d1f1bdd4ea4e74afb37a7997e93e40?v=da538e62a1134d6b9a94c993d27f8c1">Notion</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:kghui200@naver.com">Mail</a>
+</p>
+
+<p align="center">
+  <sub>Java · Spring Boot · JPA · PostgreSQL · MongoDB · MySQL</sub>
+</p>
+
 <br>
-Notion : [Notion](https://m.site.naver.com/1sGQL)
-<p>Mail : kghui200@naver.com</p>
-<!-- [![Blog](https://img.shields.io/badge/Blog-_?style=for-the-badge&logo=buefy&labelColor=%23E6E6FA&color=%23E6E6FA)](#) -->
 
-## Studying Platforms & Languages
-<!-- <details>
-<summary>
-</summary>
+### Recently into
 
+- **ERP 도메인 모델링** — 전기·재고 평가·로트 추적처럼 규칙이 무거운 업무 도메인
+- **헥사고날 아키텍처** — 도메인을 프레임워크와 인프라에서 떼어내는 구조
+- **정합성 설계** — 멱등성, 문서 채번, 역분개, 재고 락
+- **스펙 주도 AI 협업 개발** — Claude Code · Codex 주/부 병렬 운용
 
-</details> -->
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-<!-- ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) -->
-
-
-<!-- **I'm interests too . . .** -->
-<!-- **INTERESTS** -->
-<!-- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) -->
-<!-- ![NPM](![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)) -->
-
-<!-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
-<!-- ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) -->
-
- <!-- JS Backend -->
-<!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) -->
-
-<!--JAVA GUI tools
-![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
- -->
-<!-- Python parts -->
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Tensor-flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  -->
-
-<!-- <div align = center> -->
-[![KGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kascald&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<!-- </div> -->
-<!-- <div align = center> -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kascald&langs_count=10&layout=compact&theme=dracula)](https://github.com/Kascald/Kascald) -->
-<!-- </div> -->
-
-
-<!-- <div align = center> -->
-<!-- WaKa Time (ref)-> [https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md#wakatime-%EC%A3%BC%EA%B0%84-%ED%86%B5%EA%B3%84) -->
-[![KGH's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kascald&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Kascald&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Kascald&show_icons=true&hide_border=true&theme=default&bg_color=00000000" alt="GitHub stats" height="165" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Kascald&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kascald&layout=compact&hide_border=true&theme=default&bg_color=00000000" alt="Top languages" height="165" />
+  </picture>
+</p>
