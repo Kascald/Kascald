@@ -1,0 +1,37 @@
+name: Recent repos
+
+on:
+  schedule:
+    - cron: "17 21 */2 * *"   # UTC 21:17 = KST 06:17, 2일 간격
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recent-repos
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render recent repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          REPO_COUNT: "5"
+          STALE_DAYS: "50"
+        run: |
+          export LAST_COMMIT_TS=$(git log -1 --format=%ct)
+          python3 .github/scripts/recent_repos.py
+
+      - name: Commit if changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update recent repos"
+          git push
