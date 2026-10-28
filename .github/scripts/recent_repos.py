@@ -18,11 +18,16 @@ repos = [r for r in repos
          if not r["fork"] and not r["archived"] and not r["private"]
          and r["name"].lower() != USER.lower()][:COUNT]
 
-lines = []
-for r in repos:
-    meta = " · ".join(x for x in (r["language"], r["description"]) if x)
-    lines.append(f"- [**{r['name']}**]({r['html_url']})" + (f" — {meta}" if meta else ""))
-listing = "\n".join(lines)
+def render(r):
+    head = f"- [**{r['name']}**]({r['html_url']})"
+    if r["language"]:
+        head += f" `{r['language']}`"
+    desc = (r["description"] or "").strip()
+    if len(desc) > 70:
+        desc = desc[:69].rstrip() + "…"
+    return head + (f"  \n  <sub>{desc}</sub>" if desc else "")
+
+listing = "\n".join(render(r) for r in repos)
 
 text = open(README, encoding="utf-8").read()
 m = re.search(re.escape(START) + r"\n(.*?)" + re.escape(END), text, re.S)

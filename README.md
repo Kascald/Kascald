@@ -7,16 +7,13 @@
 </p>
 
 <p align="center">
+  <sub>Java · Spring Boot · JPA · PostgreSQL · Flyway · Testcontainers</sub>
 </p>
 
 <p align="center">
   <a href="https://alpine-helium-e62.notion.site/53d1f1bdd4ea4e74afb37a7997e93e40?v=da538e62a1134d6b9a94c993d27f8c1">Notion</a>
   &nbsp;·&nbsp;
   <a href="mailto:kghui200@naver.com">Mail</a>
-</p>
-
-<p align="center">
-  <sub>Java · Spring Boot · JPA · PostgreSQL · Flyway · Testcontainers</sub>
 </p>
 
 <br>
@@ -26,7 +23,6 @@
 - **ERP 도메인 모델링** — 전기·재고 평가·로트 추적처럼 규칙이 무거운 업무 도메인
 - **헥사고날 아키텍처** — 도메인을 프레임워크와 인프라에서 떼어내는 구조
 - **정합성 설계** — 멱등성, 문서 채번, 역분개, 재고 락
-- **실DB 기반 테스트** — Testcontainers로 운영과 같은 PostgreSQL에서 검증
 - **스펙 주도 AI 협업 개발** — Claude Code · Codex 주/부 병렬 운용
 
 ### Recently pushed
