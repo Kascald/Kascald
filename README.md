@@ -28,6 +28,13 @@
 ### Recently pushed
 
 <!-- RECENT:START -->
+- [**Drag-Translate-Ext**](https://github.com/Kascald/Drag-Translate-Ext) — JavaScript · 선택한 텍스트를 DeepL API를 통해 즉시 번역하는 말풍선 확장 프로그램
+- [**LaChaTa_Bot**](https://github.com/Kascald/LaChaTa_Bot) — Java · I made it for personally because I needed it...
+- [**WAS-Calculator_practice**](https://github.com/Kascald/WAS-Calculator_practice) — Java · make calculator with WAS
+- [**OOP-practiceRepo**](https://github.com/Kascald/OOP-practiceRepo) — Java · OOP-practiceRepo(w.TDD)
+- [**JWT_Practice-w.RefreshToken**](https://github.com/Kascald/JWT_Practice-w.RefreshToken) — Java · JWT RefreshToken Practice
+
+<sub>Updated 2026-10-28</sub>
 <!-- RECENT:END -->
 
 <br>
